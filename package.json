@@ -23,8 +23,13 @@
   "dependencies": {
     "cli": "^1.0.1",
     "firebase": "^11.9.0",
+    "html": "^1.0.0",
+    "html-webpack-plugin": "^5.6.3",
+    "loader": "^2.1.1",
     "plugin": "^0.0.15",
     "store": "^2.0.12",
+    "ts": "^0.0.0",
+    "ts-loader": "^9.5.2",
     "webpack": "^5.99.9"
   },
   "devDependencies": {
