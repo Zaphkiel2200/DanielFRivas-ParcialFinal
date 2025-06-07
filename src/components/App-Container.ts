@@ -106,9 +106,7 @@ export class AppContainer extends HTMLElement {
                 </div>
                 <button class="sign-out-btn" id="signOutBtn">Sign Out</button>
             </div>
-            <todo-list></todo-list>
-            <tareas-container></tareas-container>
-        ` : `
+            <todo-list></todo-list>        ` : `
             <login-form></login-form>
             `}
         `;
